@@ -37,7 +37,6 @@
 
 ## 💡 Filosofia de Código
 ```go
-// Clean Code + Tipagem Forte = ❤️
 func main() {
     preferencias := Preferences{
         Backend:       true,
